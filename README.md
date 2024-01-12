@@ -19,7 +19,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone [your-repository-link]
+   git clone https://github.com/mertellialti/earth-q
    cd EarthQ
    ```
 2. **Install Dependencies**
